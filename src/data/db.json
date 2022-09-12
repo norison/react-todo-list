@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "860cfcf8-b39a-4d4e-b57a-a84d6715e47f",
+      "title": "New todo",
+      "description": "new todo description",
+      "isCompleted": false
+    }
+  ]
+}
